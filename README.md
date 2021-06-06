@@ -16,7 +16,7 @@ This is for when we add imports that have to be installed. When that's the case,
     <dependency>
         <groupId>junit</groupId>
         <artifactId>junit</artifactId>
-        <version>4.11</version>
+        <version>4.13.1</version>
         <scope>test</scope>
     </dependency>
 </dependencies>
