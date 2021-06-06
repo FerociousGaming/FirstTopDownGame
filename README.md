@@ -23,6 +23,7 @@ This is for when we add imports that have to be installed. When that's the case,
 ```
 
 ### Useful CLI commands: ###
+_This should be in the repository folder_
 * mvn clean
     * removes the /target folder. Note that each of the following includes this to ensure new files.
     * _mvm stands for maven_
