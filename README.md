@@ -36,7 +36,10 @@ This is for when we add imports that have to be installed. When that's the case,
 * If a GUI-only project, you can just double click the generated .jar file
 * If that doesn't work, double click the runApp.bat file.
     * This just runs (from the command line) whatever .jar file is in the /target folder
-  
+
+### Checking bugs, vulnerabilities, and code smells ###
+SonarCloud: https://sonarcloud.io/dashboard?id=FerociousGaming_FirstTopDownGame
+
 <br>
 <br>
 
