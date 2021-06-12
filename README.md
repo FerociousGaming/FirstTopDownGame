@@ -1,6 +1,6 @@
 # FirstTopDownGame #
 
-Let's GOOOO x2
+THIS JUST GOT EDITED FOR THIS DEMO!!!
 ## For Development: ##
 ### Explanation ###
 The architecture of this app is Maven. Maven helps with dependencies, testing, and creating a .jar file. 
